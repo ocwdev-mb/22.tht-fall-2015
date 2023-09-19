@@ -1,0 +1,27 @@
+leftnav:
+- identifier: a96a118d-33ea-c537-74cd-c3e2a2b9c561
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 251d5531-d025-7d7c-36c3-54f02a7236b9
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: 367bd643-683b-4f4b-071f-5fe3025b8d17
+  name: 'Improving the NSE Undergraduate Thesis Tutorial '
+  pageRef: /pages/instructor-insights/improving-the-nse-undergraduate-thesis-tutorial
+  parent: 251d5531-d025-7d7c-36c3-54f02a7236b9
+  weight: 30
+- identifier: 2cb282e5-6446-bdd1-9d98-a26c36c9a4b4
+  name: Teaching Science Communication
+  pageRef: /pages/instructor-insights/teaching-science-communication
+  parent: 251d5531-d025-7d7c-36c3-54f02a7236b9
+  weight: 40
+- identifier: 1f51caf7-e077-166d-04b1-1917d03a488c
+  name: Guides, Templates and Tools
+  pageRef: /pages/guides-templates-and-tools
+  weight: 50
+- identifier: c870da42-29dc-d989-7269-a35d128c2619
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 60
